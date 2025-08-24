@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <node pkg="medicine_retrieval" type="ocr_service_node.py" name="ocr_service_node" output="screen"/>
+</launch>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <node pkg="medicine_retrieval" type="smach_meds_retrieval.py" name="smach_meds_retrieval_node" output="screen"/>
+</launch>

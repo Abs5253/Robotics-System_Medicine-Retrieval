@@ -1,0 +1,30 @@
+# --- ROS / Catkin ---
+build/
+devel/
+logs/
+.catkin_tools/
+
+*.sif
+
+
+# --- Python / Virtualenv ---
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.Python
+# PyCharm project files
+.idea/
+*.iml
+
+
+# --- Misc ---
+# macOS system files
+.DS_Store
+*.tmp
+
+
+# Brief version, add your own ignores as needed

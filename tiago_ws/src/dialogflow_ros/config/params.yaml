@@ -1,0 +1,8 @@
+results_topic: "/dialogflow_client/results"
+requests_topic: "/dialogflow_client/requests"
+project_id: "tiago-wvno"
+play_audio: true
+use_audio_server: true
+server_name: "127.0.0.1"
+port: 4444
+debug: false

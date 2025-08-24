@@ -1,0 +1,12 @@
+{
+  "medicine_table_1" : {
+    "0" : "medicine_bottle_1",
+    "1" : "medicine_bottle_2",
+    "2" : "medicine_bottle_3"
+  },
+
+  "medicine_table_2" : {
+    "0" : "medicine_bottle_4",
+    "1" : "medicine_bottle_5"
+  }
+}

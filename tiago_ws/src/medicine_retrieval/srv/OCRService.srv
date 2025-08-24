@@ -1,0 +1,9 @@
+# OCRService srv fil
+
+# Request
+string bottle_to_find
+---
+
+#Response
+bool found
+int32 med_number
